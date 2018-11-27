@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Widok główny</string>
+    <string name="header">Dane kontaktowe do wysyłki</string>
+    <string name="name_label_text">Imię i nazwisko</string>
+    <string name="adress_label_text">Adres</string>
+    <string name="phone_label_text">Nr telefonu</string>
+    <string name="email_label_text">E-mail</string>
+    <string name="remarks_label_text">Uwagi</string>
+    <string name="choose_delivery_method">Wybierz sposób wysyłki:</string>
+    <string name="courier_delivery">Wysyłka kurierem</string>
+    <string name="post_delivery">Wysyłka pocztą</string>
+    <string name="pick_up">Odbiór osobisty</string>
+    <string name="choose_payment_method">Wybierz metodę płatności:</string>
+    <string name="name_text_hint">Wpisz imię i nazwisko</string>
+    <string name="adress_text_hint">Wpisz adres</string>
+    <string name="phone_text_hint">Wpisz nr telefonu</string>
+    <string name="email_text_hint">Wpisz adres e-mail</string>
+    <string name="remarks_text_hint">Uwagi do sprzedającego</string>
+    <string-array name="label_arrays">
+        <item>przedpłata</item>
+        <item>za pobraniem</item>
+        <item>gotówka przy odbiorze</item>
+    </string-array>
+    <string name="send_button">Wyślij</string>
+    <string name="activity2_name">Podsumowanie</string>
+    <string name="adress_summary_text_label">Adres</string>
+    <string name="phone_summary_text_label">Nr telefonu</string>
+    <string name="email_summary_text_label">E-mail</string>
+    <string name="remarks_summary_text_label">Uwagi</string>
+    <string name="payment_method_summary_text_label">Metoda płatności</string>
+    <string name="name_summary_text_label">Pan/i</string>
+    <string name="delivery_method_summary_text_label">Metoda dostawy</string>
+    <string name="next_button_label">Dalej</string>
+    <string name="activity3_name">Stany cylku życia</string>
+</resources>
